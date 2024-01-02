@@ -1,18 +1,13 @@
 <h4> Hey there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
 
-I'm a Data Scientist / Machine Learning, Deep Learning and AI Engineer with 4.5 years of experience in the AI field.
-I've worked on projects in the following industries:
-* healthcare
-* automotive
-* software services
-* marketing
-* factory production
-
- ---
- 
-**Currently I am working ...**
-
-
+I'm a **Data Scientist / Machine Learning, Deep Learning and AI Engineer** with **4.5 years of experience** in the AI field.
+I've worked on projects in the following **industries**:
+* **Healthcare**
+* **Automotive**
+* **Software services**
+* **Marketing**
+* **Factory production**
+  
 ---
  
 **Languages and Tools:**
