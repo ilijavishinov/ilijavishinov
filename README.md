@@ -42,7 +42,7 @@ I've worked on projects in the following industries:
 <p align="center">
   <i>Let's connect and chat! Find me on the web...</i>
 
-   [![Linkedin Badge](https://img.shields.io/badge/-ilija-vishinov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anushkaverma/)](https://www.linkedin.com/in/ilija-vishinov/) 
+   [![Linkedin Badge](https://img.shields.io/badge/-ilija-vishinov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ilija-vishinov/)](https://www.linkedin.com/in/ilija-vishinov/) 
    [![Gmail Badge](https://img.shields.io/badge/-ilijavishinovprofessional-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ilijavishinovprofessional@gmail.com)](mailto:ilijavishinovprofessional@gmail.com)   
 
 </p>
