@@ -17,9 +17,9 @@ I've worked on projects in the following industries:
  
 **Languages and Tools:**
 
-<p align="center">
+<p align="left">
 
-  <div align="center">
+  <div align="left">
   
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> <code><img height="40" 
  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
@@ -31,7 +31,7 @@ I've worked on projects in the following industries:
  
 **Github Stats:**
 
-<p align="center">
+<p align="left">
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilijavishinov&count_private=true&hide=html,scss,,ejs&theme=dracula&line_height=10">
 
