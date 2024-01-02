@@ -1,29 +1,19 @@
 <h4> Hey there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
 
-I'm [Ilija Vishinov](https://ilijavishinov.github.io/ilijavishinov/), an BLA.
+I'm a Data Scientist / Machine Learning, Deep Learning and AI Engineer with 4.5 years of experience in the AI field.
+I've worked on projects in the following industries:
+* healthcare
+* automotive
+* software services
+* marketing
+* factory production
 
  ---
  
 **Currently I am working ...**
 
-- <div>
-    <img width="250" height="95" align='left' src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/images/hopsteiner.png" >
-    ... as a <strong>Freelancer</strong> for a US based organization- Hopsteiner, where I am working on designing & developing an internal web application to analyze, integrate, access, and visualize hop data.
-    <br />
-    <strong>Tech Stack: </strong> ReactJS, Javascript, Typescript, NodeJS, ExpressJS, MySQL, AWS 
-    <br /> 
-    <br /> 
-  </div>
-  
-- <div>
-    <img width="250" height="100" align='right' src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/images/gfg.png" style="margin-left: -10px" >
-    ... as a <strong>Technical Content Writer</strong> at Geeks for Geeks where I have penned down forty plus detailed and comprehensive articles covering various web technologies and Data Structures & Algorithms concepts.
-    <br />
-    <strong>View: </strong> <a href="https://auth.geeksforgeeks.org/user/verma_anushka/articles" >Geeks for Geeks</a> 
-    <br /> 
-  </div> 
 
- ---
+---
  
 **Languages and Tools:**
 
@@ -42,8 +32,7 @@ I'm [Ilija Vishinov](https://ilijavishinov.github.io/ilijavishinov/), an BLA.
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=verma-anushka&count_private=true&show_icons=true&theme=dracula&line_height=33">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verma-anushka&count_private=true&hide=html,scss,,ejs&theme=dracula&line_height=10">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilijavishinov&count_private=true&hide=html,scss,,ejs&theme=dracula&line_height=10">
 
 </p>
 
