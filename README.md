@@ -21,21 +21,13 @@ I've worked on projects in the following industries:
 
   <div align="left">
   
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> <code><img height="40" 
- src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+  
   </div>
   </p>
-
- ---
- 
-**Github Stats:**
-
-<p align="left">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilijavishinov&count_private=true&hide=html,scss,,ejs&theme=dracula&line_height=10">
-
-</p>
 
  ---
  
