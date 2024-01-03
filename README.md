@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
    Let's get in touch!        
    
    [![Linkedin Badge](https://img.shields.io/badge/-ilijavishinov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ilijavishinov/)](https://www.linkedin.com/in/ilijavishinov/)
