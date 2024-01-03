@@ -2,7 +2,8 @@
 
 <p align="center">
   
-   [![Linkedin Badge](https://img.shields.io/badge/-ilija-vishinov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ilija-vishinov/)](https://www.linkedin.com/in/ilija-vishinov/) 
+   [![Linkedin Badge](https://img.shields.io/badge/-ilijavishinov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ilijavishinov/)](https://www.linkedin.com/in/ilijavishinov/) 
+   [![Linkedin Badge](https://img.shields.io/badge/-anushkaverma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anushkaverma/)](https://www.linkedin.com/in/anushkaverma/)
    [![Gmail Badge](https://img.shields.io/badge/-ilijavishinovprofessional-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ilijavishinovprofessional@gmail.com)](mailto:ilijavishinovprofessional@gmail.com)
    
 </p>
