@@ -1,8 +1,6 @@
 <p align="center">
-  
    [![Linkedin Badge](https://img.shields.io/badge/-ilijavishinov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ilijavishinov/)](https://www.linkedin.com/in/ilijavishinov/)
    [![Gmail Badge](https://img.shields.io/badge/-ilijavishinovprofessional-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ilijavishinovprofessional@gmail.com)](mailto:ilijavishinovprofessional@gmail.com)
-   
 </p>
 
 <h4> Hey there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
@@ -10,10 +8,6 @@
 I'm a **Data Scientist / Machine Learning, Deep Learning and AI Engineer** with **4.5 years of experience** in the AI field.
 I've worked on projects in the following **industries**:
 * **Healthcare**, **Automotive**, **Software services**, **Marketing**, **Factory production**
-  
----
- 
-**Languages and Tools:**
 
 <p align="left">
 
