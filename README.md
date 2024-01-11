@@ -14,6 +14,9 @@ I'm a **Data Scientist / Machine Learning, Deep Learning and AI Engineer** with 
 I've worked on projects in the following **industries**:
 * **Healthcare**, **Automotive**, **Software services**, **Marketing**, **Factory production**
 
+
+\n\n
+
 <p align="left">
 
   <div align="left">
