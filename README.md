@@ -19,9 +19,6 @@ Contact me on LinekedIn or email.
 </p>
 
 
-<br>
-<br>
-
 <p align="left">
 
   <div align="left">
