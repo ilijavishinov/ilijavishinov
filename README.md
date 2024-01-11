@@ -15,7 +15,8 @@ I've worked on projects in the following **industries**:
 * **Healthcare**, **Automotive**, **Software services**, **Marketing**, **Factory production**
 
 
-\n\n
+<br>
+<br>
 
 <p align="left">
 
