@@ -1,5 +1,15 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <h4> Hey there!  <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
+
+
+
+
+I'm a **Data Scientist / Machine Learning, Deep Learning and AI Engineer** with **5 years of experience** in the AI field.
+I've worked on projects in the following **industries**:
+* **Healthcare**, **Automotive**, **Software services**, **Marketing**, **Factory production**
+
+<br>
+  
 Contact me on LinekedIn or email.  
 <p align="left">
    
@@ -7,12 +17,6 @@ Contact me on LinekedIn or email.
    [![Gmail Badge](https://img.shields.io/badge/-ilijavishinovprofessional-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ilijavishinovprofessional@gmail.com)](mailto:ilijavishinovprofessional@gmail.com)
    
 </p>
-
-
-
-I'm a **Data Scientist / Machine Learning, Deep Learning and AI Engineer** with **5 years of experience** in the AI field.
-I've worked on projects in the following **industries**:
-* **Healthcare**, **Automotive**, **Software services**, **Marketing**, **Factory production**
 
 
 <br>
