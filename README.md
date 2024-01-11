@@ -41,7 +41,6 @@ Contact me on LinekedIn or email.
   
   </div>
   
-  <br />
   
   **Software Engineering**
   <div align="left">
