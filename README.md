@@ -14,7 +14,7 @@ Contact me on LinekedIn or email.
 <p align="left">
    
    [![Linkedin Badge](https://img.shields.io/badge/-ilijavishinov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ilijav-ishinov/)](https://www.linkedin.com/in/ilija-vishinov/)
-   [![Gmail Badge](https://img.shields.io/badge/-ilijavishinovprofessional-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ilijavishinovprofessional@gmail.com)](mailto:ilijavishinovprofessional@gmail.com)
+   [![Gmail Badge](https://img.shields.io/badge/-ilija.vishinov-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ilija.vishinov@gmail.com)](mailto:ilija.vishinov@gmail.com)
    
 </p>
 
