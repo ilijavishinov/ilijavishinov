@@ -4,7 +4,7 @@
 
 
 
-I'm a **Data Scientist / Machine Learning, Deep Learning and AI Engineer** with **5 years of experience** in the AI field.
+**Data Scientist / Machine Learning, Deep Learning and AI Engineer** with **5 years of experience** in the AI field.
 I've worked on projects in the following **industries**:
 * **Healthcare**, **Automotive**, **Software services**, **Marketing**, **Factory production**
 
