@@ -18,14 +18,14 @@ Contact me on LinekedIn or email.
    
 </p>
 
-
+<!--
 <p align="left">
 
   **Data Science**
   <div align="left">
 
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+  #![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  #![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
   ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
   ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -67,6 +67,7 @@ Contact me on LinekedIn or email.
   
   </div>
   </p>
+  -->
 <!--
  | Name       | Badge |
 | ---------- | ----------------------------------------------------------------------------------------------------------------- |
